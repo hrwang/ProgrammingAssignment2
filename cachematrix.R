@@ -1,4 +1,6 @@
 ## The following two functions will calculate the inverse of a matrix from cache.
+## Note: These functions will not check the input matrix, but it will assume that the input matrix is invertible.
+
 
 ## The "makeCacheMatrix" function caches the inverse matrix.
 
